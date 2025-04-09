@@ -1,0 +1,5 @@
+vhdl xil_defaultlib  \
+"../../../../testPIP23_11.gen/sources_1/bd/importBD/ip/multiply_mult_gen_0_0/sim/multiply_mult_gen_0_0.vhd" \
+
+# Do not sort compile order
+nosort

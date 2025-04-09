@@ -1,0 +1,1 @@
+vopt -l elaborate.log +acc=npr -suppress 10016  -L xil_defaultlib -L xbip_utils_v3_0_13 -L xbip_pipe_v3_0_9 -L xbip_bram18k_v3_0_9 -L mult_gen_v12_0_21 -L unisims_ver -L unimacro_ver -L secureip -work xil_defaultlib xil_defaultlib.multiply xil_defaultlib.glbl -o multiply_opt

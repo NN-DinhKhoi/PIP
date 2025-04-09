@@ -1,0 +1,3 @@
+multiply_mult_gen_0_0.vhd,vhdl,xil_defaultlib,../../../../testPIP23_11.gen/sources_1/bd/importBD/ip/multiply_mult_gen_0_0/sim/multiply_mult_gen_0_0.vhd,
+multiply.v,verilog,xil_defaultlib,../../../../testPIP23_11.gen/sources_1/bd/importBD/sim/multiply.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

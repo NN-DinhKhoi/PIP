@@ -1,0 +1,7 @@
+verilog xil_defaultlib  \
+"../../../../testPIP23_11.gen/sources_1/bd/importBD/sim/multiply.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

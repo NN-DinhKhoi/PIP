@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../PIP.sv" \
+"../../../../RegisterFile.sv" \
+"../../../../alu.sv" \
+"../../../../check_edge.sv" \
+"../../../../controller.sv" \
+"../../../../datapath.sv" \
+"../../../../PIP_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

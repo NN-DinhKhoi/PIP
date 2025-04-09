@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/GiaPhuc/ThietKeLuanLySo/Quoc/testPIP23_11/PIP.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PIP
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/GiaPhuc/ThietKeLuanLySo/Quoc/testPIP23_11/RegisterFile.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegisterFile
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/GiaPhuc/ThietKeLuanLySo/Quoc/testPIP23_11/alu.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/GiaPhuc/ThietKeLuanLySo/Quoc/testPIP23_11/check_edge.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module check_edge
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/GiaPhuc/ThietKeLuanLySo/Quoc/testPIP23_11/controller.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module controller
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/GiaPhuc/ThietKeLuanLySo/Quoc/testPIP23_11/datapath.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module datapath
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/GiaPhuc/ThietKeLuanLySo/Quoc/testPIP23_11/PIP_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PIP_tb

@@ -1,0 +1,12 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+D:/GiaPhuc/ThietKeLuanLySo/Quoc/testPIP23_11/PIP.sv,1744206498,systemVerilog,,D:/GiaPhuc/ThietKeLuanLySo/Quoc/testPIP23_11/RegisterFile.sv,,PIP,,uvm,,,,,,
+D:/GiaPhuc/ThietKeLuanLySo/Quoc/testPIP23_11/PIP_tb.sv,1744205913,systemVerilog,,,,PIP_tb,,uvm,,,,,,
+D:/GiaPhuc/ThietKeLuanLySo/Quoc/testPIP23_11/RegisterFile.sv,1744206498,systemVerilog,,D:/GiaPhuc/ThietKeLuanLySo/Quoc/testPIP23_11/alu.sv,,RegisterFile,,uvm,,,,,,
+D:/GiaPhuc/ThietKeLuanLySo/Quoc/testPIP23_11/alu.sv,1733206737,systemVerilog,,D:/GiaPhuc/ThietKeLuanLySo/Quoc/testPIP23_11/check_edge.sv,,alu,,uvm,,,,,,
+D:/GiaPhuc/ThietKeLuanLySo/Quoc/testPIP23_11/check_edge.sv,1744206498,systemVerilog,,D:/GiaPhuc/ThietKeLuanLySo/Quoc/testPIP23_11/controller.sv,,check_edge,,uvm,,,,,,
+D:/GiaPhuc/ThietKeLuanLySo/Quoc/testPIP23_11/controller.sv,1733210669,systemVerilog,,D:/GiaPhuc/ThietKeLuanLySo/Quoc/testPIP23_11/datapath.sv,,controller,,uvm,,,,,,
+D:/GiaPhuc/ThietKeLuanLySo/Quoc/testPIP23_11/datapath.sv,1733212058,systemVerilog,,D:/GiaPhuc/ThietKeLuanLySo/Quoc/testPIP23_11/PIP_tb.sv,,datapath,,uvm,,,,,,
+D:/GiaPhuc/ThietKeLuanLySo/Quoc/testPIP23_11/testPIP23_11.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,uvm,,,,,,
